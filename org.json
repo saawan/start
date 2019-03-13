@@ -1,0 +1,15 @@
+{
+  "authChoice" : "1",
+  "gitConnected" : false,
+  "logos" : {
+    "logoStamp" : "/start/shared/static/img/logo-stamp.png"
+  },
+  "name" : "start",
+  "rtChoice" : "custom",
+  "rtServerUrlDev" : "https://35.196.37.61",
+  "rtServerUrlInt" : "https://35.196.37.61",
+  "rtServerUrlProduction" : "https://35.196.37.61",
+  "rtServerUrlQA" : "https://rt.trillo.io",
+  "rtServerUrlStaging" : "https://35.196.37.61",
+  "rtUrl" : "https://35.196.37.61"
+}
